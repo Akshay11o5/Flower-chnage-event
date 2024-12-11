@@ -1,0 +1,13 @@
+.dropDown {
+  width: 100%;
+  margin: 20px;
+}
+
+img {
+  vertical-align: middle;
+  border-style: none;
+  height: 200px;
+  width: 200px;
+  overflow: hidden;
+  border: 2px solid black;
+}
